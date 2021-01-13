@@ -1,17 +1,24 @@
-<h1>Приложение по FSTEC 21</h1>
+# Fstec21 App
 
-### Приложение было создано в рамках проектной деятельности в ВУЗе.
+![alt text](screenshots/main-and-about-pages.png)
+<br>
+<br>
 
-**Вся информация есть в официальных открытых источниках.**
 
-1. [Официальный сайт Фстэк 21](https://fstec21.blogspot.com/)
-2. [Методический документ](https://fstec.ru/component/attachments/download/636)
+<div style="color:#00c1ff">
+    <p>Fstec21 project written on Flutter.</p>
+    <p>This app was created as part of project activities at the university</p>
+</div>
+<br>
+<br>
+<h2>How to build</h2>
+<hr>
 
-<h2>Скриншоты приложения:</h2>
-<h3>Основная страница:</h3>
+Clone the project through `git clone https://github.com/Shteyd/fstec21_app` and run `flutter build ...` or `flutter run`
 
-![alt text](screenshots/main_page.png "main page")
-
-<h3>Страница с основной информацией</h3>
-
-![alt text](screenshots/about_us_page.png "about-us page")
+<h2>Official sources</h2>
+<hr>
+<ul>
+    <li><a href="https://fstec21.blogspot.com/">Официальный сайт Фстэк 21</a></li>
+    <li><a href="https://fstec.ru/component/attachments/download/636">Методический документ</a></li>
+</ul>
