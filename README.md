@@ -7,3 +7,7 @@
 - [Методический документ](https://fstec.ru/component/attachments/download/636)
 
 ---
+
+# Скриншоты самого приложения:
+![alt text](screenshots/main_page.png "Основная страница")
+![alt text](screenshots/about_us_page.png "Страница с информацией")
