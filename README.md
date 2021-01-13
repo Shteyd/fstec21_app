@@ -1,6 +1,6 @@
 # Fstec21 App
 
-![alt text](screenshots/main-and-about-pages.png)
+![](screenshots/main-and-about-pages.png)
 <br>
 <br>
 
@@ -13,6 +13,6 @@ Clone the project through `git clone https://github.com/Shteyd/fstec21_app` and 
 
 <h2>Official sources</h2>
 <ul>
-    <li><a href="https://fstec21.blogspot.com/">Официальный сайт Фстэк 21</a></li>
-    <li><a href="https://fstec.ru/component/attachments/download/636">Методический документ</a></li>
+    <li><a href="https://fstec21.blogspot.com/">Official website fstec21</a></li>
+    <li><a href="https://fstec.ru/component/attachments/download/636">Methodological document</a></li>
 </ul>
